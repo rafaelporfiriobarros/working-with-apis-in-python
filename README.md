@@ -18,6 +18,4 @@ O objetivo do projeto é extrair o id de cada personagem, o nome de cada persona
 
 Segue uma amostra do resultado do arquivo .csv gerado:
 
-![filecsv](rick_and_morty_csv.png)
-
 
